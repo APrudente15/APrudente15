@@ -3,9 +3,9 @@
 ### A little bit about me:
 My background is in Biomedical and Molecular Sciences Research, though I want to pursue an amazing career in tech! I'm having a lot of fun learning different coding languages to create apps and I would love to keep learning more!
 
-😎 Tech Trainee at La Fosse Academy
-🧬 Biomed MSc Graduate at King's College London
-☕ Coffee enthusiast
+- 😎 Tech Trainee at La Fosse Academy
+- 🧬 Biomed MSc Graduate at King's College London
+- ☕ Coffee enthusiast
 
 
 <!--
