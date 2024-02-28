@@ -8,7 +8,8 @@ My background is in Biomedical and Molecular Sciences Research, though I want to
 ☕ Coffee enthusiast
 
 ##Coding Languages:
-![java-script](https://github.com/APrudente15/APrudente15/assets/110691505/3cf0a323-dd27-49d5-a2cb-95867eb3a910)
+
+<img src="[image.png](https://github.com/APrudente15/APrudente15/assets/110691505/3cf0a323-dd27-49d5-a2cb-95867eb3a910)" width="200" height="100">
 
 ![github-logo](https://github.com/APrudente15/APrudente15/assets/110691505/2f7728de-7145-41ec-a033-8e396595b6f4)
 
